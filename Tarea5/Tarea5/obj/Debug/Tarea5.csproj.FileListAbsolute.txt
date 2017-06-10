@@ -1,0 +1,20 @@
+c:\users\aula\documents\visual studio 2015\Projects\Tarea5\Tarea5\bin\Debug\Tarea5.exe.config
+c:\users\aula\documents\visual studio 2015\Projects\Tarea5\Tarea5\bin\Debug\Tarea5.exe
+c:\users\aula\documents\visual studio 2015\Projects\Tarea5\Tarea5\bin\Debug\Tarea5.pdb
+c:\users\aula\documents\visual studio 2015\Projects\Tarea5\Tarea5\obj\Debug\Tarea5.csprojResolveAssemblyReference.cache
+c:\users\aula\documents\visual studio 2015\Projects\Tarea5\Tarea5\obj\Debug\Tarea5.Form1.resources
+c:\users\aula\documents\visual studio 2015\Projects\Tarea5\Tarea5\obj\Debug\Tarea5.Properties.Resources.resources
+c:\users\aula\documents\visual studio 2015\Projects\Tarea5\Tarea5\obj\Debug\Tarea5.csproj.GenerateResource.Cache
+c:\users\aula\documents\visual studio 2015\Projects\Tarea5\Tarea5\obj\Debug\Tarea5.exe
+c:\users\aula\documents\visual studio 2015\Projects\Tarea5\Tarea5\obj\Debug\Tarea5.pdb
+c:\users\aula\documents\visual studio 2015\Projects\Tarea5\Tarea5\obj\Debug\Tarea5.Peliculas.resources
+C:\Users\Alumno\Desktop\Tarea5\Tarea5\bin\Debug\Tarea5.exe.config
+C:\Users\Alumno\Desktop\Tarea5\Tarea5\obj\Debug\Tarea5.exe
+C:\Users\Alumno\Desktop\Tarea5\Tarea5\obj\Debug\Tarea5.pdb
+C:\Users\Alumno\Desktop\Tarea5\Tarea5\bin\Debug\Tarea5.exe
+C:\Users\Alumno\Desktop\Tarea5\Tarea5\bin\Debug\Tarea5.pdb
+C:\Users\Alumno\Desktop\Tarea5\Tarea5\obj\Debug\Tarea5.csprojResolveAssemblyReference.cache
+C:\Users\Alumno\Desktop\Tarea5\Tarea5\obj\Debug\Tarea5.Form1.resources
+C:\Users\Alumno\Desktop\Tarea5\Tarea5\obj\Debug\Tarea5.Peliculas.resources
+C:\Users\Alumno\Desktop\Tarea5\Tarea5\obj\Debug\Tarea5.Properties.Resources.resources
+C:\Users\Alumno\Desktop\Tarea5\Tarea5\obj\Debug\Tarea5.csproj.GenerateResource.Cache
